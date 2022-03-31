@@ -1,5 +1,5 @@
 # AirBnB Properties Report
-![](https://github.com/Teguh14/Portofolio-Project/blob/main/Images/download%20(3).png)
+![](/Images/download%20(3).png)
 
 # Current condition
 * Airbnb, Inc. is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities. Based in San Francisco, California, the platform is accessible via website and mobile app. Currently the stakeholders want to know the report of company and have some business questions they have to know.
@@ -11,5 +11,5 @@
 * What is the average price of rented properties by room type?
 * what is percentage properties by room categories?
 
-# Data preparation (https://docs.google.com/spreadsheets/d/1TenjxELlGHwuRP1ikTIwLVfCN9l20zU9m6E_LrUvJ2s/edit#gid=1020563855)
+# Data preparation [(https://docs.google.com/spreadsheets/d/1TenjxELlGHwuRP1ikTIwLVfCN9l20zU9m6E_LrUvJ2s/edit#gid=1020563855)]
 * To solve this problem that can answered the business question the most important things is collect dataset that required. Dataset obtained from google sheet with seven column consist of listing_id, description, room_type, price, neighborhood, host_name, and last review.
