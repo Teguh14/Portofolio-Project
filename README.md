@@ -10,3 +10,6 @@
 * How many rented of properties by room type?
 * What is the average price of rented properties by room type?
 * what is percentage properties by room categories?
+
+# Data preparation 
+* To solve this problem that can answered the business question the most important things is collect dataset that required. Dataset obtained from google sheet (https://docs.google.com/spreadsheets/d/1TenjxELlGHwuRP1ikTIwLVfCN9l20zU9m6E_LrUvJ2s/edit#gid=1020563855).
