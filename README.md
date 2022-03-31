@@ -1,5 +1,5 @@
 # AirBnB Properties Report
-!![Airbnb-Logo-Contest](https://user-images.githubusercontent.com/101809112/161121311-a45f3e47-47ca-40e8-aed9-88ec715b2316.png)
+![Airbnb-Logo-Contest](https://user-images.githubusercontent.com/101809112/161121311-a45f3e47-47ca-40e8-aed9-88ec715b2316.png)
 
 # Current condition
 * Airbnb, Inc. is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities. Based in San Francisco, California, the platform is accessible via website and mobile app. Currently the stakeholders want to know the report of company and have some business questions they have to know.
