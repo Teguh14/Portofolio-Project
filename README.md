@@ -11,5 +11,5 @@
 * What is the average price of rented properties by room type?
 * what is percentage properties by room categories?
 
-# Data preparation {https://docs.google.com/spreadsheets/d/1TenjxELlGHwuRP1ikTIwLVfCN9l20zU9m6E_LrUvJ2s/edit#gid=1020563855}
+# [Data preparation](https://docs.google.com/spreadsheets/d/1TenjxELlGHwuRP1ikTIwLVfCN9l20zU9m6E_LrUvJ2s/edit#gid=1020563855)
 * To solve this problem that can answered the business question the most important things is collect dataset that required. Dataset obtained from google sheet with seven column consist of listing_id, description, room_type, price, neighborhood, host_name, and last review.
