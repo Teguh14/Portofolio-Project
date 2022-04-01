@@ -19,6 +19,9 @@
 ![Air_BnB_Report (1)_page-0005](https://user-images.githubusercontent.com/101809112/161213983-abd3274f-bf29-4166-ad4a-945af0c89d5f.jpg)
 This dashboard is an insight into the data owned by airbnb company.
 
-* Number of rented properties by room type in borough
+* Number of Rented Properties by Room Type in Borough
 ![Air_BnB_Report (1)_page-0001](https://user-images.githubusercontent.com/101809112/161215342-a8514de4-3404-4527-9dac-bd7c1491c593.jpg)
 based on the graph, the most rented entire/apt and shared room types are in manhattan and the most rented private room types are in brooklyn
+
+* Number of Average Price Rented by Room Type 
+ 
