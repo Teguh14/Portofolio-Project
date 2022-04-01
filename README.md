@@ -18,4 +18,10 @@
 
 # Data Validation
 
-
+2 ["A", "creative", "man"]
+=>
+[
+  ["A", " ", " ", "creative", "man"],
+  ["A", " ", "creative", " ", "man"],
+  ["A", "creative", " ", " ", "man"]
+]
