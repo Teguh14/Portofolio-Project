@@ -17,3 +17,5 @@
 # [Cleaned Data](https://docs.google.com/spreadsheets/d/1Vmxwyar4QdswsQdBUnMlYFRRiMoiN_sN6ofHUj7X8Cs/edit#gid=2059079978)
 
 # Data Validation
+
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
