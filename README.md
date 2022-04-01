@@ -1,12 +1,12 @@
-# AirBnB Properties Report
+# Airbnb property rental report
 ![Airbnb-Logo-Contest](https://user-images.githubusercontent.com/101809112/161121311-a45f3e47-47ca-40e8-aed9-88ec715b2316.png)
 
 # Current condition
 * Airbnb, Inc. is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities. Based in San F-ransisco, California, the platform is accessible via website and mobile app. Currently the stakeholders want to know the report of company and have some business quest-tion they have to know.
 
 # Business Questions
-* How many total of revenues by room types in AirBnB?
-* How many total of properties that AirBnB have? 
+* How many total of revenues by room types in Airbnb?
+* How many total of properties that Airbnb have? 
 * How many rented of properties by room type?
 * What is the average price of rented properties by room type?
 * what is percentage properties by room categories?
@@ -17,11 +17,11 @@
 # Data Visualization
 * Dashboard Report
 ![Air_BnB_Report (1)_page-0005](https://user-images.githubusercontent.com/101809112/161213983-abd3274f-bf29-4166-ad4a-945af0c89d5f.jpg)
-This dashboard is an insight into the data owned by airbnb company.
+This dashboard is an insight into the data owned by Airbnb company.
 
 * Number of Rented Properties by Room Type in Borough
 ![Air_BnB_Report (1)_page-0001](https://user-images.githubusercontent.com/101809112/161215342-a8514de4-3404-4527-9dac-bd7c1491c593.jpg)
-based on the graph, the most rented entire/apt and shared room types are in manhattan and the most rented private room types are in brooklyn
+based on the graph, the most rented entire home/apt and shared room types are in manhattan and the most rented private room types are in brooklyn
 
 * Number of Average Price Rented by Room Type 
 ![Air_BnB_Report (1)_page-0002](https://user-images.githubusercontent.com/101809112/161216819-c812a197-52ba-40df-90b0-7238d157ffae.jpg)
