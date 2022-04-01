@@ -26,3 +26,5 @@ based on the graph, the most rented entire/apt and shared room types are in manh
 * Number of Average Price Rented by Room Type 
 ![Air_BnB_Report (1)_page-0002](https://user-images.githubusercontent.com/101809112/161216819-c812a197-52ba-40df-90b0-7238d157ffae.jpg)
 based on the graph, the average price per room type in manhattan is the highest compared to other borough followed by Brookyln, Queens, Bronx, and Staten Island.
+
+* Total Room Type and Percentage of Properties by Category
