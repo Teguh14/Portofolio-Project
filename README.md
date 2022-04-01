@@ -33,10 +33,10 @@ The most type of room owned by the company is the entire home/apt room type with
 
 * Total of Revenues by Room Type in Borough
 ![Air_BnB_Report (1)_page-0003](https://user-images.githubusercontent.com/101809112/161221152-618f2c60-a99d-4db4-b36b-ed45a0121ff9.jpg)
-the highest income from each property is the entire/apt type in manhattan with a total income of 1,459,564 dollars from grand total of 3,547,146 dollars
+the highest income from each property is the entire home/apt type in manhattan with a total income of 1,459,564 dollars from grand total of 3,547,146 dollars
 
 # Conclusion
-* The most rented entire/apt and shared room types are in manhattan and the most rented private room types are in brooklyn.
+* The most rented entire home/apt and shared room types are in manhattan and the most rented private room types are in brooklyn.
 * The average price per room type in manhattan is the highest compared to other borough.
 * Entire home/apt room type is the most type of room owned by the company.
 * The highest income from each property is the entire/apt type in manhattan.
