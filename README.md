@@ -24,4 +24,5 @@ This dashboard is an insight into the data owned by airbnb company.
 based on the graph, the most rented entire/apt and shared room types are in manhattan and the most rented private room types are in brooklyn
 
 * Number of Average Price Rented by Room Type 
- 
+![Air_BnB_Report (1)_page-0002](https://user-images.githubusercontent.com/101809112/161216819-c812a197-52ba-40df-90b0-7238d157ffae.jpg)
+based on the graph, the average price per room type in manhattan is the highest compared to other borough followed by Brookyln, Queens, Bronx, and Staten Island.
