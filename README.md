@@ -32,7 +32,7 @@ based on the graph, the average price per room type in manhattan is the highest 
 The most type of room owned by the company is the entire home/apt room type with 13,173 properties.
 
 * Total of Revenues by Room Type in Borough
-![Air_BnB_Report (1)_page-0003](https://user-images.githubusercontent.com/101809112/161218890-d2522195-4da2-4343-b8bc-4d49a565b999.jpg)
+![Air_BnB_Report (1)_page-0003](https://user-images.githubusercontent.com/101809112/161221152-618f2c60-a99d-4db4-b36b-ed45a0121ff9.jpg)
 the highest income from each property is the entire/apt type in manhattan with a total income of 1,459,564 dollars from grand total of 3,547,146 dollars
 
 # Conclusion
