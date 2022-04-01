@@ -36,3 +36,7 @@ The most type of room owned by the company is the entire home/apt room type with
 the highest income from each property is the entire/apt type in manhattan with a total income of 1,459,564 dollars from grand total of 3,547,146 dollars
 
 # Conclusion
+* The most rented entire/apt and shared room types are in manhattan and the most rented private room types are in brooklyn.
+* The average price per room type in manhattan is the highest compared to other borough.
+* Entire home/apt room type is the most type of room owned by the company.
+* The highest income from each property is the entire/apt type in manhattan.
