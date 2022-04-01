@@ -17,3 +17,7 @@
 # Data Visualization
 * Dashboard Report
 ![Air_BnB_Report (1)_page-0005](https://user-images.githubusercontent.com/101809112/161213983-abd3274f-bf29-4166-ad4a-945af0c89d5f.jpg)
+This dashboard is an insight into the data owned by airbnb company.
+
+* Number of rented properties by room type in borough
+
